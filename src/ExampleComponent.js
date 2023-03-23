@@ -83,7 +83,7 @@ export default class CanvasDraw extends PureComponent  {
     hideInterface: false,
     gridSizeX: 25,
     gridSizeY: 25,
-    gridLineWidth: 0.5,
+    gridLineWidth: 0.5 ,
     hideGridX: false,
     hideGridY: false,
     enablePanAndZoom: false,
